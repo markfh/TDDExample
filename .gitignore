@@ -1,0 +1,8 @@
+bin/it/rambow/fhb/tdd/PlainTemplateTest.class
+bin/it/rambow/fhb/tdd/Template.class
+bin/it/rambow/fhb/tdd/TemplatePlain.class
+bin/it/rambow/fhb/tdd/TestTemplate.class
+bin/it/rambow/fhb/tdd/TestTemplateRefactored.class
+bin/it/rambow/fhb/tdd/TextTemplate.class
+.classpath
+.project
